@@ -1,0 +1,82 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+#nig{color: white; 
+     text-align: center;
+      }
+#visit-n{ color: white;
+           text-align: center;
+         margin-top:0
+        }
+
+body{font-family: 'Tangerine', cursive;
+     background: linear-gradient(white, seagreen);
+     color:white;
+     text-shadow: 0 0 30px black;
+     f
+    }
+        #header {display:flex;
+                  flex-direction:column;
+                  align-items: center;
+                 border:3px solid white;
+                 background-color:#307351;
+                 margin-bottom:20px;
+            }
+
+
+     .tourist-img {width:250px;
+                   background-size: cover; 
+                  border: 5px solid white;
+                  border-radius: 7px;
+                  margin-right: 0, auto;
+                  }
+
+#top-img{display: flex;
+         justify-content:space-evenly;}
+         
+     .content{font-size:18px;
+              font-style: ;
+              color:white
+              text-shadow: 0 0  20px black;
+             }
+
+.places-img {width:250px;
+            border: 5px solid white;
+             border-radius:10px;
+             }
+
+
+
+.top-3 {text-align: center;
+       margin: cover;
+       padding-top: 20px;
+       border: 5px solid white;
+       background-color:#307351;}
+
+.Muti{width: 100px;
+      border-radius: 50px
+   
+     
+     }
+
+#Tour-g { 
+        width: 300px;
+        height:300px;
+        display: flex;
+       flex-direction:column;
+       align-items:center;
+         margin-top:70px;
+        border:5px solid #307351;
+        margin: auto;
+         background:#307351;
+         border-radius: 20px;
+}
+
+
+
+
+.intro{width: 250px;
+      color: white;}
+           
